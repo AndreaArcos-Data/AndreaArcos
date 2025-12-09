@@ -1,4 +1,4 @@
-#  ¡Hola! Soy Andrea Arcos  
+#  Andrea Arcos  
 
 **Analista de Datos en formación**, con una sólida base en Matemáticas, Computación y más de 8 años de experiencia en docencia universitaria y planificación y ejecución de proyectos técnicos.
 
